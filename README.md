@@ -43,4 +43,3 @@ I believe in **strong mind, strong body, strong leadership**.
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
 
---------
