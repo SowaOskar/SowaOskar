@@ -42,4 +42,4 @@ I believe in **strong mind, strong body, strong leadership**.
 - [LinkedIn](https://linkedin.com/in/username)  
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
------
+
